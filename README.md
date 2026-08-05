@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hola, soy Cristian Flórez 👋
 
-<!--
-**Cris904fl/Cris904fl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador de Software Full Stack | .NET · C# · Data Engineer | Bogotá, Colombia 🇨🇴**
 
-Here are some ideas to get you started:
+Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingeniería de datos y business intelligence. Actualmente construyo soluciones para **comercio exterior y aduanas** en [Xcargo](https://x-cargo.co), y estudio **Ingeniería de Sistemas** en la Fundación Universitaria San Mateo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 💼 Desarrollador de Software en **Xcargo** — sistemas para logística y comercio exterior
+- 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información (SENA) · Ingeniería de Sistemas en curso (2025–2027)
+- 🔭 Trabajo a diario con **.NET, C#, Blazor y PostgreSQL**
+- 📊 Experiencia en **ETL, Data Warehousing y dashboards con Power BI**
+- 🌱 Profundizando en arquitectura de software y buenas prácticas en el ecosistema .NET
+- 💬 Pregúntame sobre **C#, APIs REST, SQL y automatización con Python**
+
+## 🛠️ Tecnologías
+
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Bases de datos y datos**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+## 📜 Certificaciones
+
+- 🏅 .NET Framework — Verified by Talently (2025)
+- 🏅 Java — Verified by Talently (2025)
+- 🏅 MSSQL — Verified by Talently (2025)
+- 🗣️ SmallTalk English Speaking Level Test (2025)
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cris904fl&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris904fl&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" height="165">
+</p>
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-david-fl%C3%B3rez-jim%C3%A9nez-a1b90119b/)
+
+---
+
+<p align="center">⭐ Si algún proyecto te resulta útil, ¡una estrella siempre se agradece!</p>
