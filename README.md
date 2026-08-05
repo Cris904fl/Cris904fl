@@ -2,7 +2,9 @@
 
 **Desarrollador de Software Full Stack | .NET · C# · Data Engineer | Bogotá, Colombia 🇨🇴**
 
-Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingeniería de datos y business intelligence. Actualmente construyo soluciones para **comercio exterior y aduanas** en [Xcargo](https://x-cargo.co), y estudio **Ingeniería de Sistemas** en la Fundación Universitaria San Mateo.
+Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingeniería de datos y business intelligence. Actualmente construyo soluciones para **comercio exterior y aduanas** en [Xcargo](https://x-cargo.co), y estudio **Ingeniería en Ciencia de Datos e IA** en la Fundación Universitaria San Mateo.
+
+🌐 **Visita mi portafolio:** [cris904fl.github.io/web](https://cris904fl.github.io/web/)
 
 ## 🚀 Sobre mí
 
@@ -76,6 +78,7 @@ Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingenier
 
 ## 📫 Contacto
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-cris904fl.github.io%2Fweb-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cris904fl.github.io/web/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-david-fl%C3%B3rez-jim%C3%A9nez-a1b90119b/)
 
 ---
