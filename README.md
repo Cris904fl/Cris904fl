@@ -20,11 +20,15 @@ Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingenier
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**
 
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,10 +42,23 @@ Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingenier
 
 **Herramientas**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+## 💼 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [inventario-ccl](https://github.com/Cris904fl/inventario-ccl) | Sistema de gestión de inventarios con autenticación JWT, alertas de stock, historial de movimientos y UI responsive con modo oscuro | C#, .NET 9, EF Core, PostgreSQL, Angular 19 |
+| [gestorinventarios](https://github.com/Cris904fl/gestorinventarios) | App híbrida de inventarios con predicción de ventas por IA, OCR de facturas y dashboards en tiempo real | .NET MAUI Blazor, Python, SQLite/SQL Server |
+| [alocredit-conciliaciones](https://github.com/Cris904fl/alocredit-conciliaciones) | Sistema fintech de conciliación con pipeline ETL automatizado y procesamiento de pagos bancarios | Django, DRF, Pandas, PostgreSQL |
+| [ecommer-analytics](https://github.com/Cris904fl/ecommer-analytics) | Pipeline de analítica e-commerce end-to-end con ETL, reportes KPI, forecasting con ML y detección de anomalías | FastAPI, Airflow, Docker, GitHub Actions |
+| [auth-api](https://github.com/Cris904fl/auth-api) | API REST con autenticación JWT, login con Google OAuth2 y control de acceso por roles, desplegable en AWS Lambda | FastAPI, DynamoDB, Docker |
+| [recover-kit](https://github.com/Cris904fl/recover-kit) | Plataforma SaaS de recuperación de carritos abandonados con webhooks, flujos de email/SMS y dashboards | TypeScript |
 
 ## 📜 Certificaciones
 
