@@ -72,8 +72,7 @@ Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingenier
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cris904fl&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris904fl&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" height="165">
+  <img src="https://streak-stats.demolab.com/?user=Cris904fl&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" height="165">
 </p>
 
 ## 📫 Contacto
