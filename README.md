@@ -9,7 +9,7 @@ Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingenier
 ## 🚀 Sobre mí
 
 - 💼 Desarrollador de Software en **Xcargo** — sistemas para logística y comercio exterior
-- 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información (SENA) · Ingeniería de Sistemas en curso (2025–2027)
+- 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información (SENA) · Ingeniería en Ciencia de Datos e IA en curso (2025–actualidad)
 - 🔭 Trabajo a diario con **.NET, C#, Blazor y PostgreSQL**
 - 📊 Experiencia en **ETL, Data Warehousing y dashboards con Power BI**
 - 🌱 Profundizando en arquitectura de software y buenas prácticas en el ecosistema .NET
@@ -41,6 +41,9 @@ Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingenier
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **Herramientas**
 
