@@ -55,6 +55,7 @@ Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingenier
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [mapa-emergencias](https://github.com/Cris904fl/mapa-emergencias) · [🟢 En vivo](https://mapa-emergencias.humanitario.workers.dev) | Sistema de reporte y priorización de emergencias **desplegado y funcionando**. PWA offline-first, API Fastify, índice de prioridad auditable sobre PostGIS y tablero GIS para centros de crisis | TypeScript, Fastify, PostgreSQL + PostGIS, Redis/BullMQ |
 | [inventario-ccl](https://github.com/Cris904fl/inventario-ccl) | Sistema de gestión de inventarios con autenticación JWT, alertas de stock, historial de movimientos y UI responsive con modo oscuro | C#, .NET 9, EF Core, PostgreSQL, Angular 19 |
 | [gestorinventarios](https://github.com/Cris904fl/gestorinventarios) | App híbrida de inventarios con predicción de ventas por IA, OCR de facturas y dashboards en tiempo real | .NET MAUI Blazor, Python, SQLite/SQL Server |
 | [alocredit-conciliaciones](https://github.com/Cris904fl/alocredit-conciliaciones) | Sistema fintech de conciliación con pipeline ETL automatizado y procesamiento de pagos bancarios | Django, DRF, Pandas, PostgreSQL |
@@ -78,7 +79,7 @@ Desarrollador con **5+ años de experiencia** en desarrollo Full Stack, ingenier
 ## 📫 Contacto
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-cris904fl.github.io%2Fweb-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cris904fl.github.io/web/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-david-fl%C3%B3rez-jim%C3%A9nez-a1b90119b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-florez-jimenez)
 
 ---
 
